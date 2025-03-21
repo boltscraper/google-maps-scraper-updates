@@ -1,0 +1,7 @@
+   {
+     "version": "2.0.0",
+     "downloadUrl": "https://YOUR-DOWNLOAD-LINK-HERE",
+     "releaseDate": "2023-08-15",
+     "releaseNotes": "Initial release with update notification system",
+     "minVersion": "1.0.0"
+   }
