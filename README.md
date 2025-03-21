@@ -13,7 +13,7 @@ The update.json file contains:
 ```json
 {
   "version": "2.0.0",
-  "downloadUrl": "https://boltscraper.com/downloads/install",
+  "downloadUrl": "https://boltscraper.com/install",
   "releaseDate": "2023-08-15",
   "releaseNotes": "• Added license deactivation feature\n• Fixed CSS loading delay\n• Enhanced security features\n• Performance improvements",
   "minVersion": "1.0.0"
