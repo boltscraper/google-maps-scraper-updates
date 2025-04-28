@@ -6,5 +6,6 @@
     "Initial release with update notification system",
     "krishna"
   ],
-  "minVersion": "1.0.0"
+  "minVersion": "1.0.0",
+  "ytvideo": "https://www.youtube.com/embed/MsuTN7R73BI?si=QZDBSnzim8Gqfowy"
 }
