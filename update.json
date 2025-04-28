@@ -1,11 +1,14 @@
 {
-  "version": "2.0.0",
+  "version": "1.2.0",
   "downloadUrl": "https://boltscraper.com/install",
-  "releaseDate": "2023-08-15",
+  "releaseDate": "2025-04-29",
   "releaseNotes": [
-    "Initial release with update notification system",
-    "krishna"
+    "New API mode scraping",
+    "Email notification",
+    "Telegram notification and remote control",
+    "Inbuilt feedback option",
+    "Auto save feature"
   ],
   "minVersion": "1.0.0",
-  "ytvideo": "https://www.youtube.com/embed/l1TyZpSeu8w?si=rIkPM-XpTz0rwoZi"
+  "ytvideo": "https://www.youtube.com/embed/MsuTN7R73BI?si=lQbvnz8sOuBu5wwL"
 }
