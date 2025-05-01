@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "downloadUrl": "https://boltscraper.com/install-google-maps-scraper",
   "releaseDate": "2025-04-29",
   "releaseNotes": [
@@ -7,7 +7,8 @@
     "Email notification",
     "Telegram notification and remote control",
     "Inbuilt feedback option",
-    "Auto save feature"
+    "Auto save feature",
+    "Duplicate Prevention"
   ],
   "minVersion": "1.0.0",
   "ytvideo": "https://www.youtube.com/embed/k034WMELOiI?si=imDSbJZDoysbzJuj"
