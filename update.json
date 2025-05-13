@@ -1,14 +1,13 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.3",
   "downloadUrl": "https://boltscraper.com/install-google-maps-scraper",
   "releaseDate": "2025-04-29",
   "releaseNotes": [
-    "New API mode scraping",
-    "Email notification",
-    "Telegram notification and remote control",
-    "Inbuilt feedback option",
-    "Auto save feature",
-    "Duplicate Prevention"
+    "New email notifications",
+    "Custom export feature in settings",
+    "Optimized scraper",
+    "Bug fixes",
+    "More Telegram features"
   ],
   "minVersion": "1.0.0",
   "ytvideo": "https://www.youtube.com/embed/k034WMELOiI?si=imDSbJZDoysbzJuj"
