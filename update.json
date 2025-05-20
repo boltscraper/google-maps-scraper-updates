@@ -1,12 +1,11 @@
 {
-  "version": "2.2.3",
+  "version": "2.2.4",
   "downloadUrl": "https://boltscraper.com/install-google-maps-scraper",
   "releaseDate": "2025-04-29",
   "releaseNotes": [
-    "New email notifications",
-    "Custom export feature in settings",
-    "Optimized scraper",
-    "Bug fixes",
+    "Upload keywords CSV/TXT file",
+    "Improved data extraction",
+    "Now free and pro version in same extension",
     "More Telegram features"
   ],
   "minVersion": "1.0.0",
