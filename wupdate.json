@@ -1,0 +1,12 @@
+{
+  "version": "2.2.6",
+  "downloadUrl": "https://boltscraper.com/install-google-maps-scraper",
+  "releaseDate": "2025-04-29",
+  "releaseNotes": [
+    "Duplicate Prevention fixed",
+    "UI improved",
+    "Feedback improved"
+  ],
+  "minVersion": "1.0.0",
+  "ytvideo": "https://www.youtube.com/embed/k034WMELOiI?si=imDSbJZDoysbzJuj"
+}
