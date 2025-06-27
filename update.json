@@ -8,5 +8,18 @@
     "Feedback improved"
   ],
   "minVersion": "1.0.0",
-  "ytvideo": "https://www.youtube.com/embed/k034WMELOiI?si=imDSbJZDoysbzJuj"
-}
+  "ytvideo": "https://www.youtube.com/embed/k034WMELOiI?si=imDSbJZDoysbzJuj",
+  "planPricing": {
+    "starter": {
+      "price": 79,
+      "oldPrice": 119
+    },
+    "proTrial": {
+      "price": 5
+    },
+    "pro": {
+      "price": 159,
+      "oldPrice": 200
+    }
+  }
+} 
