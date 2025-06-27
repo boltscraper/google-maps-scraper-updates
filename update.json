@@ -15,7 +15,7 @@
       "oldPrice": 119
     },
     "proTrial": {
-      "price": 5000
+      "price": 5
     },
     "pro": {
       "price": 159,
@@ -23,10 +23,6 @@
     }
   },
   "couponInfo": {
-    "code": "BOLT25",
-    "title": "Limited Time Offer!",
-    "discount": "25% OFF",
-    "expiry": "August 31, 2025",
-    "isActive": true
+   
   }
 } 
