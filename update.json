@@ -26,7 +26,9 @@
     "code": "BOLT25",
     "title": "Limited Time Offer!",
     "discount": "25% OFF",
-    "expiry": "July 1, 2025",
+    /* Optional: Add expiry date if you want to show it
+    "expiry": "July 1, 2025", 
+    */
     "isActive": true
   }
 } 
