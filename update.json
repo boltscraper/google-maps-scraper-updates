@@ -23,10 +23,17 @@
     }
   },
   "couponInfo": {
-    "code": "BOLT15",
+    "code": "BOLT25",
     "title": "Limited Time Offer!",
-    "discount": "15% OFF",
+    "discount": "25% OFF",
+    /* Optional: Add expiry date if you want to show it
     "expiry": "July 1, 2025", 
+    */
     "isActive": true
+  },
+  "productIds": {
+    "starter": "pdt_zRcz0UVPz8iZZei03jECC",
+    "pro": "pdt_gpJWGgYsThNK9bV6pfu9o",
+    "proTrial": "pdt_ylYIVquYdtlWmTY3XOF2i"
   }
-} 
+}
