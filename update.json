@@ -23,9 +23,9 @@
     }
   },
   "couponInfo": {
-    "code": "BOLT15",
+    "code": "BOLT25",
     "title": "Limited Time Offer!",
-    "discount": "15% OFF",
+    "discount": "25% OFF",
     "expiry": "", 
     "isActive": true
   },
