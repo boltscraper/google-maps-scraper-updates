@@ -1,8 +1,10 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "",
+  "version": "1.0.1",
+  "downloadUrl": "https://www.dropbox.com/scl/fi/vq6peute17g4ro6ftn2nf/Bolt-s-Free-Google-Maps-Scraper-v1.0.1.zip?rlkey=fq9y59hy3n736h8muhyq4b16a&st=gm2unjw3&dl=0",
   "releaseDate": "2025-04-29",
   "releaseNotes": [
+    "Bug fixes",
+    "Optimized scraping"
   ],
   "minVersion": "1.0.0",
   "ytvideo": "https://www.youtube.com/embed/k034WMELOiI?si=imDSbJZDoysbzJuj",
@@ -14,4 +16,3 @@
     "isActive": true
   }
 }
-
