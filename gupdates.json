@@ -5,5 +5,13 @@
   "releaseNotes": [
   ],
   "minVersion": "1.0.0",
-  "ytvideo": "https://www.youtube.com/embed/k034WMELOiI?si=imDSbJZDoysbzJuj"
+  "ytvideo": "https://www.youtube.com/embed/k034WMELOiI?si=imDSbJZDoysbzJuj",
+  "couponInfo": {
+    "code": "BOLT25",
+    "title": "Limited Time Offer!",
+    "discount": "25% OFF",
+    "expiry": "5th Aug 2025", 
+    "isActive": true
+  }
 }
+
