@@ -1,37 +1,9 @@
 {
   "version": "2.2.8",
-  "downloadUrl": "https://boltscraper.com/install-google-maps-scraper",
+  "downloadUrl": "https://boltscraper.com/install-apollo-io-scraper",
   "releaseDate": "2025-07-08",
   "releaseNotes": [
-    "Now Extracts 50+ Data Fields",
-    "1.5x Fast Scraping",
     "Basic bugs fixed"
   ],
-  "minVersion": "1.0.0",
-  "ytvideo": "https://www.youtube.com/embed/k034WMELOiI?si=imDSbJZDoysbzJuj",
-  "planPricing": {
-    "starter": {
-      "price": 79,
-      "oldPrice": 119
-    },
-    "proTrial": {
-      "price": 5
-    },
-    "pro": {
-      "price": 159,
-      "oldPrice": 200
-    }
-  },
-  "couponInfo": {
-    "code": "BOLT25",
-    "title": "Limited Time Offer!",
-    "discount": "25% OFF",
-    "expiry": "Ends Today", 
-    "isActive": true
-  },
-  "productIds": {
-    "starter": "pdt_zRcz0UVPz8iZZei03jECC",
-    "pro": "pdt_gpJWGgYsThNK9bV6pfu9o",
-    "proTrial": "pdt_ylYIVquYdtlWmTY3XOF2i"
-  }
+  "minVersion": "1.0.0"
 }
