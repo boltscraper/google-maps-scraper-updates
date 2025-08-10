@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "3.0.0",
   "downloadUrl": "https://boltscraper.com/install-apollo-io-scraper",
   "releaseDate": "2025-07-08",
   "releaseNotes": [
