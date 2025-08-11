@@ -13,6 +13,6 @@
     "title": "Limited Time Offer!",
     "discount": "25% OFF",
     "expiry": "Ends Today", 
-    "isActive": true
+    "isActive": false
   }
 }
