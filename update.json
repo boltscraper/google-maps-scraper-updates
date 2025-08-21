@@ -1,11 +1,12 @@
 {
-  "version": "2.2.8",
+  "version": "2.2.9",
   "downloadUrl": "https://boltscraper.com/install-google-maps-scraper",
-  "releaseDate": "2025-07-08",
+  "releaseDate": "2025-08-21",
   "releaseNotes": [
-    "Now Extracts 50+ Data Fields",
-    "1.5x Fast Scraping",
-    "Basic bugs fixed"
+    "Fix Bugs",
+    "Manage Device Feature",
+    "Add Credits System",
+    "Improved User Flow"
   ],
   "minVersion": "1.0.0",
   "ytvideo": "https://www.youtube.com/embed/k034WMELOiI?si=imDSbJZDoysbzJuj",
@@ -15,7 +16,7 @@
       "oldPrice": 119
     },
     "proTrial": {
-      "price": 5
+      "price": 1
     },
     "pro": {
       "price": 159,
@@ -26,7 +27,7 @@
     "code": "",
     "title": "",
     "discount": "",
-    "expiry": "", 
+    "expiry": "",
     "isActive": false
   },
   "productIds": {
