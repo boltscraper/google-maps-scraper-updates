@@ -9,9 +9,9 @@
   "minVersion": "1.0.0",
   "ytvideo": "https://www.youtube.com/embed/k034WMELOiI?si=imDSbJZDoysbzJuj",
   "couponInfo": {
-    "code": "BOLT25",
+    "code": "BOLT",
     "title": "Limited Time Offer!",
-    "discount": "25% OFF",
+    "discount": "10% OFF",
     "expiry": "Ends Today", 
     "isActive": false
   }
